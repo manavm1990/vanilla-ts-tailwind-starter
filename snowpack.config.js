@@ -6,7 +6,7 @@ module.exports = {
   mount: {
     src: "/",
   },
-  plugins: ["@snowpack/plugin-postcss"],
+  plugins: ["@snowpack/plugin-postcss", "@snowpack/plugin-typescript"],
   packageOptions: {
     /* ... */
   },
