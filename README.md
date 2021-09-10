@@ -1,1 +1,1 @@
-# Vanilla Tailwind w/Snowpack
+# TS with Vanilla JS (DOM)
