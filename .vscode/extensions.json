@@ -1,9 +1,8 @@
 {
   "recommendations": [
-    "2gua.rainbow-brackets",
     "bradlc.vscode-tailwindcss",
+    "codezombiech.gitignore",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "mgmcdermott.vscode-language-babel"
+    "esbenp.prettier-vscode"
   ]
 }
