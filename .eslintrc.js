@@ -12,6 +12,7 @@ module.exports = {
   plugins: ["@typescript-eslint"],
   rules: {
     "capitalized-comments": "off",
+    "no-prompt": "off",
     "no-unused-vars": 1,
   },
 };
